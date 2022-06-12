@@ -33,7 +33,7 @@ function Home() {
                     WELCOME TO TRAVEL SERVICE UTE
                 </div>
                 <div className="background-subheading">
-                    WE ARE GROUP 14
+                    💜 HAVE A NICE DAY 💜
                 </div>
             </div>
             <div className="mt-5 container">
